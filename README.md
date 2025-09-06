@@ -1,7 +1,7 @@
 # unity-2d-demo-platformer
 A 2D platformer where a character collects coins and avoids enemies.
 
-##Description
+## Description
 A base project for practicing game development with Unity and using GitHub with good practices: branches, commits, issues and pull requests.
 
 ## How to open the project
