@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 /// <summary>
@@ -5,6 +6,7 @@ using UnityEngine;
 /// </summary>
 public class EnemyFollowPlayer : MonoBehaviour
 {
+    
     #region Variables
     /// <summary>
     /// Represents the player's transformation.
@@ -18,6 +20,8 @@ public class EnemyFollowPlayer : MonoBehaviour
     /// Represents the space range the enemy has to detect the player.
     /// </summary>
     [SerializeField] private float detectionRange = 5f;
+
+    
     #endregion
 
     #region Unity Lifecycle
@@ -28,6 +32,7 @@ public class EnemyFollowPlayer : MonoBehaviour
     /// </summary>
     void Update()
     {
+
         //Calculates distance between the player and the enemy
         float distance = Vector2.Distance(transform.position, player.position);
 
