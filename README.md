@@ -12,3 +12,9 @@ https://github.com/aralvega/unity-2d-demo-platformer.git
 2. Open the cloned folder from Unity Hub as a 2D Project.
 
 3. Unity will automatically generate the necessary folders (Library/, Temp/, etc.).
+```
+## 📖 Documentación
+- [PlayerMovement](Docs/PlayerMovement.md)
+- [EnemyPatrol](Docs/EnemyPatrol.md)
+- [EnemyFollowPlayer](Docs/EnemyFollowPlayer.md)
+- [Collisions](Docs/Collisions.md)
