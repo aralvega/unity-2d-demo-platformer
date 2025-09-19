@@ -17,4 +17,4 @@ https://github.com/aralvega/unity-2d-demo-platformer.git
 - [PlayerMovement](Docs/PlayerMovement.md)
 - [EnemyPatrol](Docs/EnemyPatrol.md)
 - [EnemyFollowPlayer](Docs/EnemyFollowPlayer.md)
-- [Collisions](Docs/Collisions.md)
+- [Collisions](Docs/Collissions.md)
